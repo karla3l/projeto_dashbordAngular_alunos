@@ -1,0 +1,15 @@
+mat-grid-tile {
+  background: lightblue;
+}
+mat-grid-list{
+width: 700px;
+left: 285px;
+position: relative;
+top: -2525px;
+}
+.image{
+  width: 700px;
+  height: 100%;
+  left: 285px;
+
+  }
